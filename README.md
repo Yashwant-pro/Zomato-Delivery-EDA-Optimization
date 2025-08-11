@@ -36,7 +36,7 @@ This project analyzes Zomato delivery data to identify key factors impacting del
 4. Open and run the notebook in Jupyter: `jupyter notebook Zomato Delivery Data Analysis and Performance Optimization.ipynb`
 
 ## Dataset
-- Source: [Kaggle Food Delivery Dataset](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
+- Source: [Kaggle Food Delivery Dataset](https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset)
 - Size: ~45k records
 - Columns: Delivery person details, order details, location, traffic, weather, delivery time.
 
