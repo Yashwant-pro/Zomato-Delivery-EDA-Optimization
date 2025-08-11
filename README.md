@@ -23,9 +23,6 @@ This project analyzes Zomato delivery data to identify key factors impacting del
 - **Histogram**: Distribution of delivery distances and times.
 - **Pairplot**: Relationships among age, ratings, time, and distance.
 
-![City Boxplot](city_boxplot.png)
-![Distance Histogram](distance_histogram.png)
-
 ## Tools and Technologies
 - **Python**: Pandas, NumPy for data manipulation.
 - **Visualization**: Matplotlib, Seaborn for plots.
@@ -46,8 +43,8 @@ This project analyzes Zomato delivery data to identify key factors impacting del
 ## About the Author
 **Yashwant Singh**  
 Data Analyst (Fresher) passionate about uncovering insights from data to drive business decisions.  
-- GitHub: [github.com/<your-username>](https://github.com/<your-username>)  
-- LinkedIn: [linkedin.com/in/<your-linkedin>](https://linkedin.com/in/<your-linkedin>)  
+- GitHub: [github.com/<your-username>](https://github.com/Yashwant-pro)  
+- LinkedIn: [linkedin.com/in/<your-linkedin>](www.linkedin.com/in/yashwantsingh01)  
 
 ## Future Improvements
 - Add predictive modeling for delivery time forecasting.
